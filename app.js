@@ -11,4 +11,4 @@ function sortByName(inputArray) {
   return inputArray;
 }
 
-export { sortByName };
+exports.sortByName = sortByName;
